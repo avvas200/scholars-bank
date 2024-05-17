@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "6197f4d7b2118634421fc8fd",
+    "name": "Visit all Seven Wonders of the World",
+    "progress": "In Progress",
+    "createdBy": "5c8a1dfa2f8fb814b56fa182"
+  },
+  {
+    "_id": "6197f4d7b2118634421fc921",
+    "name": "Face my fears!",
+    "progress": "To Do",
+    "createdBy": "5c8a1dfa2f8fb814b56fa181"
+  },
+  {
+    "_id": "6197f4d7b2118634421fc945",
+    "name": "Witness all the eclipses",
+    "progress": "Complete",
+    "createdBy": "5c8a1dfa2f8fb814b56fa183"
+  },
+  {
+    "_id": "5c8a22c62f8fb814b56fa18b",
+    "name": "Road trip across America",
+    "progress": "In Progress",
+    "createdBy": "5c8a1d5b0190b214360dc057"
+  },
+  {
+    "_id": "5c8a1f4e2f8fb814b56fa185",
+    "name": "Complete a marathon",
+    "progress": "To Do",
+    "createdBy": "5c8a1d5b0190b214360dc057"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2959",
+    "name": "Watch a Liverpool FC match at Anfield",
+    "progress": "Complete",
+    "createdBy": "5c8a1d5b0190b214360dc057"
+  },
+  {
+    "_id": "5c88fa8cf4afda39709c2960",
+    "name": "Hunt the Northern Lights",
+    "progress": "Complete",
+    "createdBy": "5c8a1d5b0190b214360dc057"
+  }
+]
